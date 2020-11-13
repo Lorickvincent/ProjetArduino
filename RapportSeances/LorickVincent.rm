@@ -1,1 +1,9 @@
-
+Seance 13/11/2020 :
+-Recherche de l'accordage classqiue (EADGBE) et des frequences corespondantes
+-Autres accordage les plus souvent utilisés (Standard -1/2, D, drop D, open G, DADGAD)
+-Convertion de tout les accordages en frequences Hertz
+-Recherche sur la precision necessaire pour que la guitare soit bien accordée :
+Aucunes precision trouvée il faudra donc faire des tests en presentiel
+-Recherche recuperation de la frequence de la corde, pistes envisagées :
+Microphone module arduino (bien mais très peu precis)
+Appli bluetooth (Pas de documentation trouvée permetant d'utiliser le micro du telephone)
