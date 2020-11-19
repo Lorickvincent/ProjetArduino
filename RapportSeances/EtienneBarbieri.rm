@@ -1,1 +1,7 @@
+1ère séance : 13/11/2020
+-Recherche des principaux accordages pour les guitares
+-Recherche des fréquences correspondant à chaque accordage choisi et chaque note
+-Recherche non concluante sur la plage de précision de fréquence pour chaque note qui permettrait de choisir un certain type de microphone
+-Recherche des différents types de microphones existant pour l'arduino (problème car la plupart ne sont pas précis alors qu'il faudrait une bonne précision pour différencier les notes)
+
 
